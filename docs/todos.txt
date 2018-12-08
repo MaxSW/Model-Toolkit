@@ -1,0 +1,4 @@
++= etc.
+specify steady state max tick and decimal places
+syntax highlighting
+script error checking

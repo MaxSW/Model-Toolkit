@@ -1,0 +1,9 @@
+#comment
+//comment
+
+x = 10
+variableName = a + b + 5 + ln(2) + operation(5, 6, c)
+
+function operation(a, b, c){
+	return a * b * c * 1.2 * x
+}
